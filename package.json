@@ -1,8 +1,13 @@
 {
-  "name": "flowbite-react-template-vite",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "design-system-mathilde",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "react",
+    "design-system"
+  ],
+  "author": "Tatiana Méndez Perea",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",

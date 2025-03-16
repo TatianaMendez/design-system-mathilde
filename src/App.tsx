@@ -1,5 +1,4 @@
 import { DarkThemeToggle } from "flowbite-react";
-import InputForm from "./components/molecules/input/inputForm";
 import TableComponent from "./components/organisms/table/table";
 function App() {
   return (

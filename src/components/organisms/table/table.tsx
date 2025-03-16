@@ -2,7 +2,6 @@ import * as React from 'react';
 import { Table } from "flowbite-react";
 
 const TableComponent: React.FC = () => {
- 
 
   return (
     <div className="w-full">

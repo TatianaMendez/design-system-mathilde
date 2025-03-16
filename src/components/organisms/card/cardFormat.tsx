@@ -1,6 +1,5 @@
 // components/Modal.tsx
-import React, { forwardRef } from 'react';
-import styles from './card.module.css'; 
+import { forwardRef } from 'react';
 import ImageFormat from '~/components/molecules/image/imageFormat';
 import type { CardProps } from './card.types';
 
